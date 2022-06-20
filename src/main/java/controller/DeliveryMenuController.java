@@ -1,4 +1,4 @@
-package controller.menuController;
+package controller;
 import views.menus.SelectTypeOfDeliveryMenu;
 import views.servicesEntry.SendCellPhone;
 import views.servicesEntry.SendEmail;

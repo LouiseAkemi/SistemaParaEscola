@@ -1,4 +1,4 @@
-import controller.menuController.MainMenuController;
+import controller.MainMenuController;
 import repository.GradesRepository;
 import repository.StudentsRepository;
 

@@ -1,4 +1,4 @@
-package controller.menuController;
+package controller;
 import model.SubjectsEnum;
 import repository.GradesRepository;
 import views.servicesEntry.ReleaseGradeBySubject;

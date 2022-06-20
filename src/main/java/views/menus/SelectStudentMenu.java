@@ -1,5 +1,5 @@
 package views.menus;
-import controller.menuController.MainMenuController;
+import controller.MainMenuController;
 import views.validation.RegisterValidate;
 import model.Students;
 import views.show.ShowStudentsList;

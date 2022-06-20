@@ -1,5 +1,5 @@
 package views.validation;
-import controller.menuController.MainMenuController;
+import controller.MainMenuController;
 import model.Students;
 import repository.StudentsRepository;
 import java.util.Scanner;
